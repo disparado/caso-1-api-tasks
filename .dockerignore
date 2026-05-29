@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+.env.*
+__pycache__
+*.pyc
+.terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+terraform/
+tests/
+venv/
+.venv/
+*.md
